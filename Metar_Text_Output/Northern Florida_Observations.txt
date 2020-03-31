@@ -1,0 +1,48 @@
+Northern Florida Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Apalachicola FL           75.0 F   70.0 F   VRB  UNK                1011.3                          
+Bonifay FL                64.0 F   61.0 F   N      0         9      1006.4                          
+Brooksville FL            75.0 F   68.0 F   SSW    6         10     1013.1           FEW            
+Crestview FL              75.9 F   69.1 F   SSW   12  18     8                       BKN            
+Cross City FL             72.9 F   69.8 F   SSW    5         10                      SCT            
+Daytona Beach FL          73.0 F   68.0 F   SW     8         10     1012.5           SCT            
+DeFuniak Springs FL       72.3 F   68.9 F   SW     4         10                      BKN            
+DeLand FL                 75.2 F   64.4 F   SW     9         10                      BKN            
+Destin FL                 77.0 F   71.1 F   SW    10  20     9      1009.1           FEW            
+Duke Field FL             74.8 F   70.7 F   SW    10         10     1009.0           CLR            
+Eglin AFB FL              77.0 F   71.6 F   SW    10  23     10     1009.7           BKN  light drizzle
+Fernadina Beach FL        69.8 F   71.6 F   WSW   11         10                      OVC            
+Flager Beach FL           71.6 F   66.2 F   W      3         10                      BKN            
+Gainesville FL            69.1 F   68.0 F   SSW    5         10     1012.8           CLR            
+Jacksonville FL           72.0 F   69.1 F   WSW    6         10                      SCT            
+Jacksonville Int FL       70.0 F   66.9 F   W      5         3                       OVC  mist      
+Jacksonville Naval FL     73.0 F   66.9 F   WSW    9         6                       BKN  mist; haze
+Kissimmee FL              73.9 F   68.0 F   SW     8         10     1013.4           CLR            
+Lake City FL              68.0 F   68.0 F   SW     5         10                      BKN            
+Lakeland FL               68.0 F   68.0 F   SW     5         10                      BKN            
+Leesburg FL               75.0 F   66.0 F   SSW    8         10     1013.1           FEW            
+Live Oak FL               69.8 F   69.8 F   S      4         10                      SCT            
+Marianna FL               70.0 F   68.0 F   S      5         7                       SCT            
+Mary Esther FL            77.0 F   71.4 F   SSW   13  20     10     1008.9           FEW            
+Mayport FL                72.0 F   68.0 F   W     10         10                      SCT            
+Melbourne FL              73.9 F   66.0 F   SW     9         10     1012.8           SCT            
+Milton FL                 75.0 F   70.0 F   SSW   12  20     9      1007.3           SCT            
+Ocala FL                  71.1 F   68.0 F   SSW    4         10     1013.1           SCT            
+Orlando Fl                75.9 F   64.9 F   SSW    8         10     1013.1           CLR            
+Orlando International FL  75.0 F   64.9 F   SSW   12         10     1012.7           FEW            
+Palatka FL                68.0 F   62.6 F   W      4         10                      FEW            
+Panama City FL            75.9 F   70.0 F   S      9         7      1011.0           SCT            
+Pensacola FL              75.0 F   72.0 F   SSW   12  28     7                       BKN            
+Pensacola Naval FL        78.1 F   72.0 F   SSW   18  25     6                       SCT  haze      
+Perry FL                  72.7 F   71.8 F   WSW   10         10                      CLR            
+Plant City FL             77.0 F   73.4 F   SSW   10         10                      CLR            
+Quincy FL                 71.6 F   71.6 F   SW    10         1 3/4                   OVC  mist      
+Sanford FL                75.9 F   66.0 F   SW     8         10     1012.5           CLR            
+St. Augustine FL          71.6 F   68.0 F   W      5         10                      FEW            
+Tyndall AFB               76.3 F   71.8 F   SSW   13         10     1010.8           FEW            
+Whiting Field FL          75.9 F   69.1 F   VRB    5  21     10     1007.2           SCT            
+Winter Haven FL           73.9 F   69.1 F   SSW    9         10     1013.4           CLR            
+Zephyrhills FL            75.2 F   68.9 F   VRB  UNK         10                      SCT            

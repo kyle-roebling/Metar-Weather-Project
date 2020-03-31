@@ -1,0 +1,10 @@
+H:\MetarPython\Metar_Text_Output\Alabama_Plot.txt
+H:\MetarPython\Metar_Text_Output\Northern Florida_Plot.txt
+H:\MetarPython\Metar_Text_Output\Georgia_Plot.txt
+H:\MetarPython\Metar_Text_Output\Mississippi_Plot.txt
+H:\MetarPython\Metar_Text_Output\Louisiana_Plot.txt
+H:\MetarPython\Metar_Text_Output\Tennessee_Plot.txt
+H:\MetarPython\Metar_Text_Output\Arkansas_Plot.txt
+H:\MetarPython\Metar_Text_Output\South Carolina_Plot.txt
+H:\MetarPython\Metar_Text_Output\North Carolina_Plot.txt
+H:\MetarPython\Metar_Text_Output\SE_Plot.txt

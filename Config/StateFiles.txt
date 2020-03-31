@@ -1,0 +1,9 @@
+H:/MetarPython/Config/ALStations.csv
+H:/MetarPython/Config/FLStations.csv
+H:/MetarPython/Config/GAStations.csv
+H:/MetarPython/Config/MSStations.csv
+H:/MetarPython/Config/LAStations.csv
+H:/MetarPython/Config/TNStations.csv
+H:/MetarPython/Config/ARStations.csv
+H:/MetarPython/Config/SCStations.csv
+H:/MetarPython/Config/NCStations.csv

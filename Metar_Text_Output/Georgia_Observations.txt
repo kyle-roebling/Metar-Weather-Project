@@ -1,0 +1,79 @@
+Georgia Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Albany GA                 64.9 F   54.0 F   N      0         6      1011.0           BKN  haze      
+Alma GA                   61.0 F   54.0 F   SSW    4         10     1011.0           FEW            
+Americus GA               66.2 F   53.6 F   ESE    4         10                      OVC            
+Athens GA                 61.0 F   44.1 F   E      5         10     1010.6           BKN            
+Atlanta GA                60.1 F   39.9 F   SE     6         10     1008.5           SCT            
+Augusta GA                59.0 F   53.1 F   N      0         9      1010.4           FEW            
+Bainbridge GA             72.9 F   69.1 F   SSW    9         10                      BKN            
+Baxley GA                 62.6 F   53.6 F   N      0         10                      SCT            
+Blairsville GA            54.9 F   37.9 F   ESE   14  20     10                      BKN            
+Blakely GA                62.6 F   55.4 F   N      0         10                      OVC            
+Brunswick GA              68.7 F   53.4 F   N      0         10                      SCT            
+Butler GA                 63.0 F   43.7 F   ESE    5         10                                     
+Calhoun GA                51.8 F   44.6 F   NW     6         10                      OVC  light rain
+Camilla GA                68.0 F   62.4 F   N      0         10                      SCT            
+Canon Ga                  59.9 F   38.5 F   ESE    9         10                      OVC            
+Canton GA                 55.4 F   41.0 F   E      8         10                      OVC            
+Carrollton GA             56.1 F   39.6 F   SE     9         10                      SCT            
+Cartersville GA           55.9 F   46.0 F   N      0         10     1007.4           OVC            
+Claxton GA                64.9 F   55.2 F   N      0         7                       CLR            
+Cobb County GA            57.0 F   42.1 F   VRB    5         10     980.8            OVC            
+Columbus GA               61.0 F   48.0 F   SE     4         10     1008.9           OVC            
+Cordele GA                65.3 F   47.1 F   SSE    3         10                      SCT            
+Cornelia GA               56.8 F   36.9 F   E      9  18     10                      BKN            
+Covington GA              60.8 F   42.8 F   ESE    3         7                       BKN            
+Dalton GA                 51.8 F   44.6 F   NW     6         5                       SCT  heavy rain
+Daniel Field GA           63.0 F   41.0 F   E      8         10     1010.7           FEW            
+Dekalb County GA          57.9 F   39.9 F   VRB    4         10     1008.4           BKN            
+Douglas GA                64.9 F   53.6 F   N      0         10                      OVC            
+Dublin GA                 59.0 F   53.6 F   N      0         10                      SCT            
+Eastman Ga                60.3 F   56.1 F   N      0         10                      SCT            
+Ellijay GA                54.5 F   40.3 F   NE     4         7                       OVC  rain      
+Fitzgerald GA             66.2 F   55.0 F   N      0         10                      OVC            
+Fort Benning GA           60.8 F   53.6 F   ESE    4         10     1008.5           BKN            
+Fort Stewart GA           63.3 F   51.3 F   N      0         10     1010.8           BKN            
+Fulton County GA          60.1 F   39.0 F   E      5         10     1007.9           BKN            
+Gainesville GA            57.0 F   39.9 F   E     11         10     1009.6           BKN            
+Greensboro GA             62.6 F   42.8 F   E      3         10                      SCT            
+Griffin GA                59.0 F   42.8 F   E      3         10                      SCT            
+Hazlehurst GA             67.1 F   49.6 F   N      0         10                      CLR            
+Homerville GA             68.0 F   64.4 F   N      0         5                       SCT  mist      
+Hunter Airfield GA        64.9 F   51.6 F   W      3         7      1010.4           BKN            
+Jasper GA                 56.5 F   37.2 F   S     14  24     10                      OVC  light rain
+Jefferson GA              60.8 F   41.0 F   ESE   12  19     10                      BKN            
+Jesup GA                  64.4 F   55.4 F   N      0         10                      CLR            
+Lafayette GA              47.7 F   46.4 F   N      4         2                       SCT            
+Lagrange GA               59.0 F   45.0 F   SE     8         10                      BKN            
+Lawrenceville GA          57.9 F   44.1 F   E      9         10     1010.4           OVC            
+Macon GA                  60.1 F   55.9 F   N      0         10     1010.5           BKN            
+Marietta GA               58.5 F   40.8 F   E      9         10     1007.7           BKN            
+Milledgeville GA          60.8 F   46.4 F   ESE    4                                 BKN            
+Moody AFB GA              71.6 F   68.0 F   SW     5         10     1010.9           BKN            
+Moultrie GA               69.8 F   66.2 F   SSW    4         5                       CLR  mist      
+Newnan GA                 61.0 F   47.5 F   SE    11         10                      BKN            
+Paulding Northwest GA     53.6 F   41.0 F   SE     4         10                      BKN            
+Peachtree City GA         60.1 F   45.0 F   SSE    5         10     1009.2           SCT            
+Perry GA                  62.4 F   50.7 F   E      5         10                      SCT            
+Rome GA                   54.0 F   43.0 F   NNE    4         10     1007.2   0.00in  OVC  light rain
+Sandersville GA           61.5 F   45.3 F   ENE    6         10                      SCT            
+Savannah GA               64.9 F   55.0 F   N      0         10     1010.9           SCT            
+St Simons Island GA       70.0 F   55.0 F   WNW    3         10                      BKN            
+Statesboro GA             62.4 F   52.2 F   N      0         10                      SCT            
+Swainsboro GA             60.8 F   53.6 F   N      0         10                      SCT            
+Sylvania GA               62.1 F   55.6 F   N      0         10                      OVC            
+Thomaston GA              60.8 F   46.4 F   SSE    6         10                      BKN            
+Thomasville GA            71.6 F   68.0 F   SSW    4         10                      BKN            
+Thomson GA                59.7 F   48.6 F   SE     5         10                      OVC            
+Tifton GA                 68.2 F   65.3 F   SSW    4         10                      OVC            
+Toccoa GA                 58.3 F   43.3 F   E      4         10                      BKN            
+Valdosta GA               72.0 F   68.0 F   VRB    4         7                       OVC  haze      
+Vidalia GA                64.4 F   46.4 F   N      0         10                      SCT            
+Warner Robins GA          60.6 F   58.3 F   N      0         10     1010.9           BKN            
+Washington GA             60.8 F   44.6 F   E      6         10                      SCT            
+Waycross GA               67.8 F   54.9 F   N      0         10                      BKN            
+Winder GA                 60.8 F   41.0 F   ESE    4         10                      BKN            

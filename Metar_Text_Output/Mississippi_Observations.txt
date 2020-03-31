@@ -1,0 +1,37 @@
+Mississippi Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Aberdeen MS               51.8 F   35.6 F   ENE   10         10                      FEW            
+Batesville MS             53.6 F   48.2 F   ENE    8  14     10                      OVC            
+Biloxi MS                 76.8 F   72.9 F   WSW   16         10     1009.1           SCT            
+Bobby Chain Airport MS    70.0 F   64.0 F   W     19  29     6               0.78in  SCT  light rain
+Brookhaven MS             64.4 F   62.6 F   WNW    9         10                      SCT            
+Clarksdale MS             53.6 F   53.6 F   N      0         10                                     
+Cleveland MS              52.9 F   52.9 F   N      6         10                      OVC            
+Columbia MS               68.0 F   66.2 F   W      4  13     7                                      
+Columbus AFB MS           53.1 F   50.2 F   NE    12         10     1007.7           BKN            
+Columbus MS               53.1 F   52.0 F   NNE   10         10     1008.5           BKN            
+Corinth MS                50.0 F   46.4 F   ENE   10  16     10                      OVC            
+Greenville MS             54.0 F   50.0 F   N      6         10     1010.9           BKN            
+Greenwood MS              55.0 F   52.0 F   NNE    5         10     1008.8           OVC            
+Gulfport MS               77.0 F   69.1 F   SW    16  24     10                      SCT            
+Hattiesburg MS            66.2 F   64.4 F   W     11  26     4               0.01in  FEW  light rain; mist
+Hawkins Field MS          61.0 F   55.0 F   WNW   16  23     10                      BKN            
+Jackson MS                63.0 F   57.0 F   WNW   10         10                      BKN            
+Laurel MS                 67.3 F   66.0 F   W     11         10              0.01in  BKN  light rain
+Madison MS                59.0 F   59.0 F   WNW    9  18     10                      BKN            
+McComb MS                 69.1 F   64.9 F   WNW   11  19     6      1008.5   0.17in  FEW  light rain; mist
+Meridian MS               69.1 F   64.9 F   SW     5         10     1006.2   0.11in  BKN            
+Meridian NAS MS           64.0 F   62.1 F   NNW   12         10                      BKN            
+Moss Point MS             78.1 F   73.0 F   SW     9  18     9                       SCT            
+Natchez MS                61.0 F   59.0 F   NW    10  18     10     1010.4           OVC            
+Olive Branch MS           50.0 F   48.2 F   E     10         10                      SCT            
+Oxford MS                 48.2 F   46.4 F   VRB  UNK         10                      OVC            
+Raymond MS                60.8 F   60.8 F   WNW   13         10                      OVC            
+Starkville MS             51.8 F   50.0 F   NE     8         10                      OVC            
+Tunica MS                 50.0 F   46.4 F   N     11         10                      OVC  drizzle   
+Tupelo MS                 52.0 F   46.0 F   ENE   11  19     10                      BKN            
+Vicksburg MS              57.2 F   57.2 F   NW    10         10                      OVC            
+Winona MS                 53.2 F   50.7 F   NE     3         10                      OVC            

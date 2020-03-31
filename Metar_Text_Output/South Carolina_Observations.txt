@@ -1,0 +1,48 @@
+South Carolina Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Aiken SC                  62.1 F   40.6 F   NE     9         10                      OVC            
+Allendale SC              60.8 F   51.8 F   N      0         10                      BKN            
+Anderson SC               61.0 F   36.0 F   E      8         10     1010.9           OVC            
+Beaufort County Airport SC68.0 F   55.4 F   N      0         7                       SCT            
+Beaufort SC               66.9 F   55.9 F   N      0         10     1010.4           BKN            
+Bennettsville SC          60.8 F   41.0 F   ENE    8         10                      CLR            
+Charleston AFB SC         64.9 F   52.0 F   NE     4         10     1010.7           FEW            
+Charleston SC             69.8 F   53.6 F   NNE    5         8                       CLR            
+Cheraw SC                 64.4 F   35.6 F   E     12         10                      CLR            
+Chester SC                60.8 F   32.0 F   E      6  16     7                       BKN            
+Clemson SC                57.9 F   37.9 F   ENE    6         10     1011.3           OVC            
+Columiba SC               64.9 F   36.0 F   ENE    9         10     1010.9           SCT            
+Conway SC                 62.6 F   42.8 F   NE     6         5                       CLR  haze      
+Darlington SC             61.0 F   37.9 F   ENE   10         10     1012.4           CLR            
+Donaldson Field SC        59.0 F   32.0 F   NE    13         10                      OVC            
+Eastover SC               61.9 F   39.7 F   NE     8         10     1012.0           SCT            
+Florence SC               63.0 F   37.0 F   NE     9         10     1011.9           CLR            
+Georgetown SC             64.4 F   44.6 F   ENE    6         10                      BKN            
+Greenville SC             59.0 F   35.1 F   ENE   10         10     1011.6           BKN            
+Greenwood SC              59.0 F   37.9 F   ENE    3         10     1012.3           OVC            
+Greer SC                  55.9 F   36.0 F   NNE    5         10     1011.7           OVC            
+Hartsville SC             64.4 F   32.0 F   ENE   12  18     10                      CLR            
+Hilton Head Island SC     69.8 F   57.2 F   N      0         10                      BKN            
+Kingstree SC              62.6 F   39.2 F   NNE    3         7                       SCT            
+Lancaster SC              60.8 F   35.6 F   N      0         10                      BKN            
+Laurens SC                59.0 F   35.6 F   E      5         10                      SCT            
+Manning SC                62.6 F   42.8 F   NE     6         10                      CLR            
+Marion SC                 60.8 F   41.0 F   ENE   11         10                      CLR            
+Moncks Corner SC          64.4 F   48.2 F   E      9         7                       BKN            
+Mount Pleasant SC         66.2 F   53.6 F   N      0         10                      FEW            
+Myrtle Beach SC           64.0 F   41.0 F   NNE    9         10     1012.3           CLR            
+Newberry SC               60.8 F   37.4 F   NE     5         10                      BKN            
+North Myrtle Beach SC     64.9 F   45.0 F   NE    12         10     1012.2           CLR            
+Orangeburg SC             62.1 F   44.1 F   ENE    6         10     1010.9           SCT            
+Owens Airport SC          64.0 F   37.9 F   VRB    4         10     1011.7           BKN            
+Pickens SC                59.0 F   35.6 F   E      6         10                      OVC            
+Rock Hill SC              60.1 F   28.9 F   E      5         10     1011.5           CLR            
+Shaw AFB SC               61.2 F   40.3 F   NE     9         10     1011.9           FEW            
+Spartanburg SC            59.0 F   32.0 F   E      4         10                      OVC            
+Summerville SC            66.2 F   53.6 F   VRB    4         10                      SCT            
+Sumter SC                 62.6 F   39.2 F   VRB    6  12     9                       FEW            
+Walterboro SC             62.6 F   50.0 F   ENE    6         10                      SCT            
+Winnsboro SC              60.8 F   37.4 F   ENE    5         10                      BKN            

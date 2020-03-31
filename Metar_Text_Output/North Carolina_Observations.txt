@@ -1,0 +1,73 @@
+North Carolina Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Ahoskie NC                50.9 F   46.2 F   NNE    4         10                      CLR            
+Albemarle NC              57.2 F   36.1 F   ENE   11  17     10                      BKN            
+Andrews NC                48.0 F   46.4 F   N      3         10              0.01in  SCT  light rain
+Asheboro NC               55.4 F   38.3 F   ENE    4         10                      BKN            
+Asheville NC              52.0 F   36.0 F   N      0         10     1011.4   0.00in  SCT  light rain
+Beaufort NC               60.1 F   46.0 F   NE    13  24     10     1013.2           CLR            
+Burlington NC             55.9 F   37.9 F   ENE   11         10     1013.4           BKN            
+Camp Mackall NC           57.2 F   41.0 F   E     13         10     1014.3           FEW            
+Charlotte NC              59.0 F   30.0 F   NE    13         10     1011.6           BKN            
+Cherry Point NC           59.0 F   44.1 F   NNE   18         10     1013.5           OVC            
+Clinton NC                56.8 F   44.6 F   NE     4         10                      CLR            
+Concord NC                57.2 F   33.8 F   NNE    6         10                      OVC            
+Currituck NC              48.9 F   47.5 F   NNE   11         10                      OVC            
+Dare County NC            54.5 F   48.9 F   NNE   11         10                      BKN            
+Edenton NC                53.1 F   48.2 F   NE     6         10                      CLR            
+Elizabeth City NC         53.1 F   46.0 F   NNE   13         10                      BKN            
+Elizabethtown NC          59.0 F   42.4 F   ENE    9  17     10                      CLR            
+Erwin NC                  55.8 F   40.8 F   ENE   10         10                      SCT            
+Fayetteville NC           57.0 F   39.9 F   NE    12         10     1012.5           FEW            
+Fort Bragg                55.8 F   41.7 F   ENE   12  18     10     1013.4           FEW            
+Franklin NC               48.9 F   45.5 F   N      0         10                      OVC  light rain
+Gastonia NC               60.1 F   30.9 F   NE    10         10     1011.6           OVC            
+Goldsboro NC              55.4 F   41.0 F   NE    12         10     1014.5           BKN            
+Greensboro NC             53.1 F   37.0 F   ENE   11         10     1012.9           FEW            
+Greenville NC             53.6 F   42.8 F   NE     8         10                      CLR            
+Hatteras NC               59.0 F   44.1 F   NE    13  31     10     1012.9   0.00in  FEW  light rain
+Hickory NC                54.0 F   32.0 F   ENE    8         10     1011.2           FEW            
+Jacksonville NC           55.9 F   45.0 F   NE    16  24     10     1014.3           CLR            
+Jefferson NC              44.2 F   28.9 F   NNE    4         10                                     
+Kenansville NC            57.2 F   41.0 F   NE     6         10                      CLR            
+Kill Devil Hills NC       47.8 F   47.8 F   NNE   10  17     5                       OVC  mist      
+Kinston NC                55.4 F   42.8 F   ENE   10         10                      BKN            
+Lexington NC              56.3 F   33.6 F   ENE   14         10                      BKN            
+Lincolnton NC             55.8 F   34.3 F   NE     6         10                      BKN            
+Louisburg NC              51.8 F   42.8 F   ENE    8         10                      BKN            
+Manteo NC                 49.3 F   47.5 F   NE    12  20     10                      OVC            
+Maxton NC                 61.0 F   39.9 F   E      9         10     1013.1           FEW            
+Monroe NC                 60.1 F   32.0 F   NE     6         10     1012.8           CLR            
+Morganton NC              55.6 F   34.9 F   N      0         10                      OVC            
+Mount Airy NC             53.8 F   34.9 F   ENE   16  21     10                      CLR            
+New Bern NC               55.0 F   45.0 F   NE    13  21     10     1014.1           FEW            
+New River MCAS NC         59.0 F   44.1 F   NE    13         10     1013.7           BKN            
+North Wilkesboro NC       51.8 F   32.0 F   N      0         10                      OVC            
+Oak Island NC             62.8 F   50.0 F   ENE   11  21     10                      CLR            
+Oxford NC                 49.5 F   38.3 F   E      9         10                      CLR            
+Pikeville NC              52.9 F   42.4 F   N      0         10                      BKN  light rain
+Pinehurst NC              55.0 F   43.0 F   E      9         10     1014.1           FEW            
+Piney Island NC           59.0 F   42.1 F   NNE   19  28     10     1014.0           FEW            
+Pope Army Airfield NC     57.2 F   41.0 F   E     13  19     10     1013.1           OVC            
+Raleigh NC                54.0 F   41.0 F   E     12         10     1014.5           FEW            
+Reidsville NC             54.0 F   37.4 F   NE     6         10                      BKN            
+Roanoke Rapids NC         50.0 F   46.4 F   NE     4         10                      CLR            
+Rockingham NC             59.4 F   29.7 F   ENE    5         10                      CLR            
+Rocky Mount NC            53.1 F   42.1 F   ENE    5         10     1015.2           SCT            
+Rutherfordton NC          55.4 F   32.0 F   NE     6         10                      OVC            
+Salisbury NC              56.5 F   32.4 F   ENE    9         10                      SCT            
+Sanford NC                54.7 F   40.5 F   ENE    4         10                      BKN            
+Siler City NC             54.1 F   41.5 F   ENE    9         10                      OVC            
+Smithfield NC             53.6 F   42.8 F   NE     4         10                      SCT  light drizzle
+Statesville NC            55.4 F   33.3 F   ENE    8         10                      SCT            
+Swansboro NC              60.1 F   46.0 F   NE    12  21     10     1014.0           CLR            
+Tarboro NC                52.3 F   42.4 F   NE     6         7                       BKN  haze      
+Wadesboro NC              59.9 F   36.0 F   ENE   10         10                      CLR            
+Washington NC             53.1 F   42.6 F   NE     6         10                      OVC            
+Watuaga County NC         46.6 F   28.4 F   N      0         10                                     
+Whiteville NC             61.0 F   43.5 F   NE    13  18     10                      CLR            
+Wilmington NC             61.0 F   45.0 F   NE    10         10     1013.1           CLR            
+Winston Salem NC          54.0 F   35.1 F   ENE    5         10     1013.7           BKN            

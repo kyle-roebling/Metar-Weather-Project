@@ -1,0 +1,38 @@
+Arkansas Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Arkadelphia AR            51.8 F   46.4 F   N      6         10              0.00in  BKN  light rain
+Batesville AR             48.2 F   46.4 F   VRB    3         10              0.02in  SCT  light rain
+Bentonville AR            48.2 F   46.4 F   NNE    5         10              0.00in  BKN            
+Blytheville Airport AR    48.9 F   45.0 F   N     18         4               0.05in  FEW  rain; mist
+Blytheville AR            50.0 F   44.6 F   NNE   12  20     2                       BKN  light rain; mist
+Camden AR                 51.8 F   50.0 F   NNW    8         9                       BKN            
+Clinton AR                48.2 F   46.4 F   NNW    3         9                       CLR            
+Corning AR                48.2 F   48.2 F   NW     5         10                      FEW            
+De Queen AR               53.1 F   50.0 F   N      3         10     1014.4           FEW            
+El Dorado AR              52.0 F   52.0 F   NW     9         10     1012.9   0.00in  OVC            
+Fayetteville AR           50.0 F   46.9 F   NNE    4         10              0.00in  BKN            
+Flippin AR                48.2 F   46.4 F   N      0         10              0.01in  SCT  light rain
+Fort Smith AR             52.0 F   48.9 F   NNE   10         10     1016.5   0.00in  BKN            
+Harrison AR               46.9 F   45.0 F   NW     5         9               0.00in  BKN            
+Hot Springs AR            51.1 F   46.9 F   NNE    9  21     6               0.00in  BKN  mist      
+Little Rock AFB AR        50.0 F   48.2 F   NNE    6         10     1015.5           SCT            
+Little Rock AR            48.9 F   46.9 F   N     12         10              0.00in  SCT            
+Mena AR                   51.8 F   50.0 F   NNE    8         10                      SCT            
+Monticello AR             53.1 F   51.1 F   VRB    3         10     1011.5           OVC            
+Mount Ida AR              51.1 F   48.0 F   VRB  UNK         10                      BKN            
+Mountain Home AR          46.9 F   46.9 F   VRB    3         5      1016.8   0.06in  FEW  light rain; mist
+Newport AR                46.9 F   46.0 F   NNE   18         10     1015.3           FEW  light rain
+Pine Bluff AR             51.1 F   48.0 F   N     11         8               0.00in  BKN  light rain
+Rogers AR                 46.4 F   46.4 F   NNE    4         10              0.00in  BKN            
+Russellville AR           50.0 F   46.9 F   N      5         10     1015.6   0.01in  OVC            
+Searcy AR                 48.2 F   48.2 F   N      8         10              0.01in  BKN  light rain
+Smith Field AR            48.2 F   46.4 F   NNE    5         10              0.02in  FEW            
+Springdale Airport AR     46.4 F   46.4 F   NE     9         7                       SCT  light rain
+Springdale AR             46.9 F   45.0 F   NNE    8         10     1017.7   0.01in  SCT            
+Stuttgart AR              51.1 F   50.0 F   N     18  23     4      1013.2   0.02in  BKN  light rain; mist
+Texarkana AR              52.0 F   52.0 F   NNW    8         6      1014.2   0.00in  OVC  light rain; mist
+Walnut Ridge AR           48.2 F   46.4 F   N      9         10              0.06in  FEW  light rain
+West Memphis AR           51.1 F   48.9 F   N     11  19     2               0.04in  FEW  rain; mist

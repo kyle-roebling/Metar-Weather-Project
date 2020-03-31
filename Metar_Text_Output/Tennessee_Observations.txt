@@ -1,0 +1,39 @@
+Tennessee Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Athens TN                 48.2 F   44.6 F   VRB    4  13     6                       BKN  haze      
+Bolivar TN                48.2 F   46.4 F   NNE    8         9                       BKN            
+Bristol TN                48.9 F   39.9 F   N      0         10     1011.3   0.00in  BKN            
+Chattanooga TN            51.1 F   46.9 F   N     13         5      1009.1   0.03in  BKN  rain; mist
+Clarksville TN            46.0 F   43.0 F   E      9         7      1013.0   0.07in  BKN  light rain
+Cleveland TN              48.2 F   48.2 F   NNE   10  19     4                       FEW  mist      
+Columbia TN               48.2 F   48.2 F   ENE   13         10                      BKN            
+Crossville TN             43.0 F   39.9 F   NE    13  21     4               0.08in  FEW  light rain; mist
+Downtown Knoxville TN     48.2 F   44.6 F   N      0         4                       FEW  mist      
+Dyersburg TN              48.2 F   44.6 F   VRB  UNK                                                
+Elizabethon TN            46.4 F   44.6 F   N      0         6                       SCT  light rain
+Fayetteville TN           46.4 F   46.4 F   ENE   14  20     4                       FEW  mist      
+Huntington TN             46.4 F   44.6 F   NNE    9  16     6                       FEW  mist      
+Jacksboro TN              46.4 F   44.6 F   NNE    5         3                       SCT  mist      
+Jackson TN                48.9 F   46.0 F   ENE    9         10     1011.3           BKN            
+Knoxville TN              50.0 F   42.1 F   NE     9         7      1010.2   0.02in  SCT  light rain
+Lexington TN              48.2 F   42.8 F   NE    10  20     10                      BKN            
+McMinnville TN            46.4 F   44.6 F   ENE    8         3                       FEW  mist      
+Memphis TN                51.1 F   48.0 F   NE    13         6      1010.5   0.00in  BKN  light rain; mist
+Millington TN             50.0 F   46.4 F   NE     9  17     10                      OVC            
+Morristown TN             48.2 F   44.6 F   E      4         6                       OVC  mist      
+Nashville TN              46.9 F   42.1 F   NE    11  21     3               0.03in  SCT  light rain; mist
+Oak Ridge TN              48.9 F   42.1 F   VRB    4         8      1011.4   0.03in  SCT  light rain
+Paris TN                  46.4 F   42.8 F   NNE    6  12     10                      BKN            
+Portland TN               44.6 F   44.6 F   E      5         9                       FEW            
+Savannah TN               50.0 F   46.4 F   NE     6         10                      OVC            
+Sevierville TN            48.2 F   46.4 F   N      0         4                       BKN  mist      
+Shelbyville TN            46.4 F   46.4 F   NE     9         7                       CLR            
+Smyrna TN                 46.4 F   44.6 F   NE    11         10                      SCT  light rain
+Sparta TN                 44.6 F   42.8 F   VRB    4         3                       SCT  mist      
+Springville TN            46.4 F   44.6 F   E      6         6                       FEW  mist      
+Tullahoma TN              46.4 F   44.6 F   ENE    9         5                       FEW  mist      
+Union City TN             48.2 F   46.4 F   N      3         3                       SCT  mist      
+Winchester TN             46.4 F   46.4 F   VRB    4  12     2 1/2                   FEW  mist      

@@ -1,0 +1,43 @@
+Louisiana Current Weather Observations
+2020-03-31 08:41:00
+================================================================================================================
+City                   Temp     Dewpt    Dir  MPH  Gusts  VIS    SLP      Precip  Conditions
+================================================================================================================
+Alexandria Int LA         60.1 F   57.9 F   NW    14  28     10     1011.1           OVC            
+Alexandria LA             61.0 F   57.0 F   WNW    8  17     10                      OVC            
+Barksdale AFB LA          55.4 F   55.4 F   NW    11         10     1013.8           BKN            
+Bastrop LA                55.0 F   54.5 F   WNW    4         10                      OVC            
+Baton Rouge LA            75.0 F   70.0 F   WSW   13         8      1009.0           SCT            
+Bogalusa LA               75.4 F   69.8 F   W     10  18     5               0.03in  BKN            
+Chennault Int LA          73.4 F   69.8 F   WNW   12         7                       BKN            
+De Quincy LA              70.2 F   63.7 F   WNW   12         10                      BKN            
+De Ridder LA              65.5 F   59.9 F   NW    17  21     10                      BKN            
+Downtown Shreveport LA    57.0 F   53.1 F   WNW    8         10                      BKN            
+Eugene Island LA          75.2 F   75.2 F   SW    18  26     3                            mist      
+Fort Polk LA              60.8 F   57.2 F   NW    13  23     10     1012.2           OVC            
+Galliano LA               77.9 F   70.7 F   SW    19  25     10                      BKN            
+Hammond LA                75.2 F   69.8 F   W     12  20     10                      BKN            
+Houma LA                  75.2 F   71.6 F   SW     9  18     7                       BKN            
+Jennings LA               74.1 F   69.8 F   W     10  13     10                      BKN            
+Lafayette LA              75.0 F   70.0 F   WSW   11         8      1009.9   0.00in  SCT  light rain
+Lake Charles LA           75.0 F   69.1 F   WNW    5         9                       FEW            
+Mansfield LA              56.3 F   53.6 F   W      5         10                      OVC            
+Minden LA                 55.2 F   54.3 F   WNW   10         10                      OVC            
+Monroe LA                 55.9 F   54.0 F   NNW   11         10                      BKN            
+Natchitoches LA           56.7 F   54.7 F   NW    13  25     7                       BKN            
+New Iberia LA             75.0 F   73.9 F   WSW   12  21     7      1010.2           SCT            
+New Orleans Int LA        77.0 F   71.1 F   SW    11         5      1009.6   0.00in  SCT  rain      
+New Orleans LA            77.0 F   71.1 F   VRB  UNK                                                
+New Orleans NAS LA        75.9 F   73.0 F   SW    16  23     10     1009.6           FEW            
+New Roads LA              73.4 F   66.2 F   NW    14  21     10                      BKN            
+Oakdale LA                68.0 F   64.4 F   NW    10         10                      SCT            
+Opelousas LA              71.6 F   64.9 F   WNW   10  16     10                      SCT            
+Patterson LA              75.0 F   73.0 F   WSW   16  25     10     1010.6           OVC            
+Port Fourchon LA          78.8 F   73.4 F   SW    18  26     10                      FEW            
+Ruston LA                 54.7 F   51.8 F   NNW    8         10                      BKN            
+Salt Point LA             73.0 F   71.1 F   WSW    5                1010.1                          
+Shreveport LA             55.9 F   54.0 F   WNW    9         10                      FEW            
+Slidell LA                77.0 F   70.0 F   SSW   10  17     10     1008.7           BKN            
+Sulphur LA                74.5 F   69.6 F   WNW    9         10                      BKN            
+Tallulah LA               59.0 F   55.0 F   WNW    5         10                      OVC            
+Vadalia LA                60.6 F   56.7 F   NW    17  23     10                      SCT            
